@@ -1,0 +1,28 @@
+Dependencies for Project 'Home_Security_System', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Display.c)(0x591B4D30)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-Drvmdk -DPART_TM4C123GH6PM -DTM4C123GH6PM-o .\display.o --omf_browse .\display.crf --depend .\display.d)
+I (Display.h)(0x591AB879)
+I (Nokia5110.h)(0x591AE8A3)
+I (SysTick.h)(0x591A2045)
+F (.\Display.h)(0x591AB879)()
+F (.\main.c)(0x5927343A)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-Drvmdk -DPART_TM4C123GH6PM -DTM4C123GH6PM-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (Nokia5110.h)(0x591AE8A3)
+I (PLL.h)(0x5917F3B9)
+I (Display.h)(0x591AB879)
+I (SysTick.h)(0x591A2045)
+I (UART.h)(0x591B4E42)
+I (tm4c123gh6pm.h)(0x51D4154A)
+F (.\Nokia5110.c)(0x591A231F)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-Drvmdk -DPART_TM4C123GH6PM -DTM4C123GH6PM-o .\nokia5110.o --omf_browse .\nokia5110.crf --depend .\nokia5110.d)
+I (Nokia5110.h)(0x591AE8A3)
+I (Display.h)(0x591AB879)
+F (.\Nokia5110.h)(0x591AE8A3)()
+F (.\PLL.c)(0x52304F32)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-Drvmdk -DPART_TM4C123GH6PM -DTM4C123GH6PM-o .\pll.o --omf_browse .\pll.crf --depend .\pll.d)
+I (PLL.h)(0x5917F3B9)
+F (.\PLL.h)(0x5917F3B9)()
+F (.\startup.s)(0x57014E30)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\SysTick.c)(0x592730AA)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-Drvmdk -DPART_TM4C123GH6PM -DTM4C123GH6PM-o .\systick.o --omf_browse .\systick.crf --depend .\systick.d)
+F (.\SysTick.h)(0x591A2045)()
+F (.\tm4c123gh6pm.h)(0x51D4154A)()
+F (.\UART.h)(0x591B4E42)()
+F (.\UART.c)(0x59273157)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-Drvmdk -DPART_TM4C123GH6PM -DTM4C123GH6PM-o .\uart.o --omf_browse .\uart.crf --depend .\uart.d)
+I (UART.h)(0x591B4E42)
+I (tm4c123gh6pm.h)(0x51D4154A)
